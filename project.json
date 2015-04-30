@@ -1,0 +1,10 @@
+{
+    "name": "if3",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "if3.xml",
+    "author": "NashGrier",
+    "minimum_firmware_version": 42
+}
